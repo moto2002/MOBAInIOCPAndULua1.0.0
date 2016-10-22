@@ -1,0 +1,27 @@
+CSV_TABLES = CSV_TABLES or {} 
+CSV_TABLES["LOGIN_UI"]={
+ [5]={
+ ["siblingId"]=1,
+ ["parentId"]=3,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/login_ui/loginpanel.prefab",
+ ["sid"]=5,
+},
+ [37]={
+ ["siblingId"]=3,
+ ["parentId"]=3,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab",
+ ["sid"]=37,
+},
+ [4]={
+ ["siblingId"]=0,
+ ["parentId"]=3,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/login_ui/login_bkg.prefab",
+ ["sid"]=4,
+},
+ [18]={
+ ["siblingId"]=2,
+ ["parentId"]=3,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/login_ui/registerpanel.prefab",
+ ["sid"]=18,
+},
+}

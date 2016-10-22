@@ -1,0 +1,63 @@
+CSV_TABLES = CSV_TABLES or {} 
+CSV_TABLES["SELECT_UI"]={
+ [213]={
+ ["siblingId"]=8,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/initialmask.prefab",
+ ["sid"]=213,
+},
+ [131]={
+ ["siblingId"]=1,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/chatlframe.prefab",
+ ["sid"]=131,
+},
+ [139]={
+ ["siblingId"]=2,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/detailframe.prefab",
+ ["sid"]=139,
+},
+ [215]={
+ ["siblingId"]=9,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab",
+ ["sid"]=215,
+},
+ [171]={
+ ["siblingId"]=4,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/mapframe.prefab",
+ ["sid"]=171,
+},
+ [143]={
+ ["siblingId"]=3,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/leftlist.prefab",
+ ["sid"]=143,
+},
+ [211]={
+ ["siblingId"]=7,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/timer.prefab",
+ ["sid"]=211,
+},
+ [129]={
+ ["siblingId"]=0,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/bkg.prefab",
+ ["sid"]=129,
+},
+ [175]={
+ ["siblingId"]=5,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/rightlist.prefab",
+ ["sid"]=175,
+},
+ [203]={
+ ["siblingId"]=6,
+ ["parentId"]=128,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/select_ui/selectherospanel.prefab",
+ ["sid"]=203,
+},
+}

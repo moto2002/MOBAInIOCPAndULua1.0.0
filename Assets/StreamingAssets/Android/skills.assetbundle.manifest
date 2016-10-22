@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3882010780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a4192d386f32a2c2668d21f65bbe5d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cef6c20f727f787c4f27f3e927a9cf8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00ffdd386f6fc3541a21cb3e05ae3711, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/Skill/ali.prefab
+Dependencies: []

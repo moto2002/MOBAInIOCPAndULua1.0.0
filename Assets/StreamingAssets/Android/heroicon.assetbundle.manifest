@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 761813213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff692b4a6dc5cabf7a66134846bc705d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/HeroIcon/6_round.png
+- Assets/DynamicResources/HeroIcon/8_round.png
+- Assets/DynamicResources/HeroIcon/5_round.png
+- Assets/DynamicResources/HeroIcon/4.png
+- Assets/DynamicResources/HeroIcon/2.png
+- Assets/DynamicResources/HeroIcon/nil.png
+- Assets/DynamicResources/HeroIcon/1_round.png
+- Assets/DynamicResources/HeroIcon/11.png
+- Assets/DynamicResources/HeroIcon/5.png
+- Assets/DynamicResources/HeroIcon/9.png
+- Assets/DynamicResources/HeroIcon/3_round.png
+- Assets/DynamicResources/HeroIcon/8.png
+- Assets/DynamicResources/HeroIcon/7_round.png
+- Assets/DynamicResources/HeroIcon/9_round.png
+- Assets/DynamicResources/HeroIcon/12_round.png
+- Assets/DynamicResources/HeroIcon/7.png
+- Assets/DynamicResources/HeroIcon/3.png
+- Assets/DynamicResources/HeroIcon/2_round.png
+- Assets/DynamicResources/HeroIcon/notenter.png
+- Assets/DynamicResources/HeroIcon/11_round.png
+- Assets/DynamicResources/HeroIcon/10_round.png
+- Assets/DynamicResources/HeroIcon/12.png
+- Assets/DynamicResources/HeroIcon/6.png
+- Assets/DynamicResources/HeroIcon/4_round.png
+- Assets/DynamicResources/HeroIcon/10.png
+- Assets/DynamicResources/HeroIcon/1.png
+Dependencies: []

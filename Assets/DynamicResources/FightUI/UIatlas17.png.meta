@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: de1643c6172a05840aa181e211af08bc
+timeCreated: 1472226954
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIatlas17_0
+    21300002: UIatlas17_1
+    21300004: UIatlas17_2
+    21300006: UIatlas17_3
+    21300008: UIatlas17_4
+    21300010: UIatlas17_5
+    21300012: UIatlas17_6
+    21300014: UIatlas17_7
+    21300016: UIatlas17_8
+    21300018: UIatlas17_9
+    21300020: UIatlas17_10
+    21300022: UIatlas17_11
+    21300024: UIatlas17_12
+    21300026: UIatlas17_13
+    21300028: UIatlas17_14
+    21300030: UIatlas17_15
+    21300032: UIatlas17_16
+    21300034: UIatlas17_17
+    21300036: UIatlas17_18
+    21300038: UIatlas17_19
+    21300040: UIatlas17_20
+    21300042: UIatlas17_21
+    21300044: UIatlas17_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UIatlas17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 537
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -268.5, y: 172}
+        - {x: -268.5, y: -172}
+        - {x: 268.5, y: -172}
+        - {x: 268.5, y: 172}
+    - name: UIatlas17_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 276
+        width: 230
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -362}
+        - {x: 35, y: -363}
+        - {x: 37, y: -366}
+        - {x: 38, y: -368}
+        - {x: 41, y: -368}
+        - {x: 45, y: -364}
+        - {x: 47, y: -364}
+        - {x: 49, y: -362}
+        - {x: 52, y: -362}
+        - {x: 53, y: -361}
+        - {x: 59, y: -360}
+        - {x: 60, y: -359}
+        - {x: 111, y: -359}
+        - {x: 112, y: -360}
+        - {x: 114, y: -360}
+        - {x: 115, y: -359}
+        - {x: 115, y: 374}
+        - {x: -115, y: 374}
+        - {x: -115, y: 309}
+        - {x: -111, y: 309}
+        - {x: -111, y: 298}
+        - {x: -110, y: 297}
+        - {x: -110, y: -357}
+        - {x: -108, y: -359}
+        - {x: -50, y: -359}
+        - {x: -49, y: -360}
+        - {x: -47, y: -360}
+        - {x: -42, y: -363}
+        - {x: -38, y: -367}
+        - {x: -34, y: -368}
+        - {x: -30, y: -365}
+        - {x: -27, y: -363}
+        - {x: -24, y: -363}
+        - {x: -21, y: -368}
+        - {x: -13, y: -368}
+        - {x: -11, y: -369}
+        - {x: -10, y: -368}
+        - {x: -9, y: -369}
+        - {x: -7, y: -369}
+        - {x: -5, y: -371}
+        - {x: -4, y: -371}
+        - {x: -1, y: -374}
+        - {x: 8, y: -374}
+        - {x: 15, y: -368}
+        - {x: 28, y: -368}
+        - {x: 31, y: -365}
+    - name: UIatlas17_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 276
+        width: 230
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -368}
+        - {x: 21, y: -368}
+        - {x: 23, y: -367}
+        - {x: 25, y: -363}
+        - {x: 27, y: -363}
+        - {x: 30, y: -365}
+        - {x: 34, y: -368}
+        - {x: 35, y: -368}
+        - {x: 38, y: -367}
+        - {x: 42, y: -363}
+        - {x: 47, y: -360}
+        - {x: 49, y: -360}
+        - {x: 50, y: -359}
+        - {x: 108, y: -359}
+        - {x: 110, y: -357}
+        - {x: 110, y: 297}
+        - {x: 111, y: 298}
+        - {x: 111, y: 309}
+        - {x: 115, y: 309}
+        - {x: 115, y: 374}
+        - {x: -115, y: 374}
+        - {x: -115, y: -359}
+        - {x: -114, y: -360}
+        - {x: -112, y: -360}
+        - {x: -111, y: -359}
+        - {x: -60, y: -359}
+        - {x: -59, y: -360}
+        - {x: -56, y: -360}
+        - {x: -52, y: -362}
+        - {x: -49, y: -362}
+        - {x: -47, y: -364}
+        - {x: -45, y: -364}
+        - {x: -41, y: -368}
+        - {x: -38, y: -368}
+        - {x: -37, y: -366}
+        - {x: -35, y: -363}
+        - {x: -31, y: -362}
+        - {x: -31, y: -365}
+        - {x: -28, y: -368}
+        - {x: -15, y: -368}
+        - {x: -8, y: -374}
+        - {x: 1, y: -374}
+        - {x: 5, y: -371}
+        - {x: 10, y: -368}
+        - {x: 12, y: -369}
+    - name: UIatlas17_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 191
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 163}
+        - {x: -95.5, y: -163}
+        - {x: 95.5, y: -163}
+        - {x: 95.5, y: 163}
+    - name: UIatlas17_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 508
+        width: 137
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 9, z: 5, w: 10}
+      outline:
+      - - {x: -68.5, y: -84}
+        - {x: 68.5, y: -84}
+        - {x: 68.5, y: 84}
+        - {x: -68.5, y: 84}
+      - - {x: -44.5, y: -55}
+        - {x: -45.5, y: -54}
+        - {x: -45.5, y: -49}
+        - {x: -44.5, y: -47}
+        - {x: -45.5, y: -46}
+        - {x: -45.5, y: -42}
+        - {x: -44.5, y: -40}
+        - {x: -45.5, y: -39}
+        - {x: -45.5, y: -34}
+        - {x: -44.5, y: -32}
+        - {x: -45.5, y: -31}
+        - {x: -45.5, y: -27}
+        - {x: -44.5, y: -25}
+        - {x: -45.5, y: -24}
+        - {x: -45.5, y: -19}
+        - {x: -44.5, y: -17}
+        - {x: -45.5, y: -16}
+        - {x: -45.5, y: -12}
+        - {x: -44.5, y: -10}
+        - {x: -45.5, y: -9}
+        - {x: -45.5, y: -4}
+        - {x: -44.5, y: -2}
+        - {x: -45.5, y: -1}
+        - {x: -45.5, y: 3}
+        - {x: -44.5, y: 5}
+        - {x: -45.5, y: 6}
+        - {x: -45.5, y: 11}
+        - {x: -44.5, y: 13}
+        - {x: -45.5, y: 14}
+        - {x: -45.5, y: 18}
+        - {x: -44.5, y: 20}
+        - {x: -45.5, y: 21}
+        - {x: -45.5, y: 26}
+        - {x: -44.5, y: 28}
+        - {x: -45.5, y: 29}
+        - {x: -45.5, y: 33}
+        - {x: -44.5, y: 35}
+        - {x: -45.5, y: 36}
+        - {x: -45.5, y: 41}
+        - {x: -44.5, y: 43}
+        - {x: -45.5, y: 44}
+        - {x: -45.5, y: 51}
+        - {x: -46.5, y: 52}
+        - {x: -46.5, y: 57}
+        - {x: -42.5, y: 57}
+        - {x: -41.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -38.5, y: 57}
+        - {x: -32.5, y: 56}
+        - {x: -31.5, y: 57}
+        - {x: -27.5, y: 57}
+        - {x: -26.5, y: 56}
+        - {x: -24.5, y: 56}
+        - {x: -23.5, y: 57}
+        - {x: -17.5, y: 56}
+        - {x: -16.5, y: 57}
+        - {x: -12.5, y: 57}
+        - {x: -11.5, y: 56}
+        - {x: -9.5, y: 56}
+        - {x: -8.5, y: 57}
+        - {x: -2.5, y: 56}
+        - {x: -1.5, y: 57}
+        - {x: 2.5, y: 57}
+        - {x: 3.5, y: 56}
+        - {x: 5.5, y: 56}
+        - {x: 6.5, y: 57}
+        - {x: 12.5, y: 56}
+        - {x: 13.5, y: 57}
+        - {x: 17.5, y: 57}
+        - {x: 18.5, y: 56}
+        - {x: 20.5, y: 56}
+        - {x: 21.5, y: 57}
+        - {x: 27.5, y: 56}
+        - {x: 28.5, y: 57}
+        - {x: 32.5, y: 57}
+        - {x: 33.5, y: 56}
+        - {x: 35.5, y: 56}
+        - {x: 36.5, y: 57}
+        - {x: 42.5, y: 56}
+        - {x: 43.5, y: 57}
+        - {x: 45.5, y: 57}
+        - {x: 46.5, y: -58}
+        - {x: 45.5, y: -57}
+        - {x: 43.5, y: -58}
+        - {x: 39.5, y: -58}
+        - {x: 38.5, y: -57}
+        - {x: 36.5, y: -58}
+        - {x: 31.5, y: -58}
+        - {x: 30.5, y: -57}
+        - {x: 28.5, y: -58}
+        - {x: 24.5, y: -58}
+        - {x: 23.5, y: -57}
+        - {x: 21.5, y: -58}
+        - {x: 16.5, y: -58}
+        - {x: 15.5, y: -57}
+        - {x: 13.5, y: -58}
+        - {x: 9.5, y: -58}
+        - {x: 8.5, y: -57}
+        - {x: 6.5, y: -58}
+        - {x: 1.5, y: -58}
+        - {x: 0.5, y: -57}
+        - {x: -1.5, y: -58}
+        - {x: -5.5, y: -58}
+        - {x: -6.5, y: -57}
+        - {x: -8.5, y: -58}
+        - {x: -13.5, y: -58}
+        - {x: -14.5, y: -57}
+        - {x: -16.5, y: -58}
+        - {x: -20.5, y: -58}
+        - {x: -21.5, y: -57}
+        - {x: -23.5, y: -58}
+        - {x: -28.5, y: -58}
+        - {x: -29.5, y: -57}
+        - {x: -31.5, y: -58}
+        - {x: -35.5, y: -58}
+        - {x: -36.5, y: -57}
+        - {x: -38.5, y: -58}
+        - {x: -43.5, y: -58}
+        - {x: -44.5, y: -57}
+        - {x: -45.5, y: -58}
+    - name: UIatlas17_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 28
+        width: 7
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 29
+        width: 6
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 560
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 57}
+        - {x: -53.5, y: -57}
+        - {x: 53.5, y: -57}
+        - {x: 53.5, y: 57}
+      - - {x: -10.5, y: -41}
+        - {x: -14.5, y: -40}
+        - {x: -16.5, y: -42}
+        - {x: -40.5, y: -42}
+        - {x: -38.5, y: -6}
+        - {x: -38.5, y: 2}
+        - {x: -39.5, y: 38}
+        - {x: -21.5, y: 38}
+        - {x: -18.5, y: 35}
+        - {x: -10.5, y: 35}
+        - {x: -7.5, y: 37}
+        - {x: 3.5, y: 41}
+        - {x: 9.5, y: 35}
+        - {x: 18.5, y: 35}
+        - {x: 21.5, y: 38}
+        - {x: 39.5, y: 38}
+        - {x: 38.5, y: 12}
+        - {x: 38.5, y: -8}
+        - {x: 37.5, y: -18}
+        - {x: 39.5, y: -42}
+        - {x: 34.5, y: -41}
+        - {x: 21.5, y: -42}
+        - {x: 16.5, y: -39}
+        - {x: 8.5, y: -41}
+        - {x: 4.5, y: -46}
+    - name: UIatlas17_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 380
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 61}
+        - {x: -60, y: -61}
+        - {x: 60, y: -61}
+        - {x: 60, y: 61}
+      - - {x: -33, y: -3}
+        - {x: -35, y: 38}
+        - {x: -18, y: 35}
+        - {x: -7, y: 35}
+        - {x: 3, y: 40}
+        - {x: 6, y: 35}
+        - {x: 23, y: 34}
+        - {x: 38, y: 37}
+        - {x: 36, y: 17}
+        - {x: 35, y: -13}
+        - {x: 37, y: -37}
+        - {x: 21, y: -35}
+        - {x: -19, y: -35}
+        - {x: -35, y: -38}
+    - name: UIatlas17_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 424
+        width: 6
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 424
+        width: 5
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 452
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 52}
+        - {x: -52, y: -52}
+        - {x: 52, y: -52}
+        - {x: 52, y: 52}
+    - name: UIatlas17_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 358
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 45}
+        - {x: -23, y: 45}
+        - {x: -49, y: 38}
+        - {x: -50, y: 34}
+        - {x: -50, y: -6}
+        - {x: -30, y: -45}
+        - {x: 38, y: -45}
+        - {x: 42, y: -7}
+        - {x: 42, y: 14}
+        - {x: 27, y: 40}
+      - - {x: 38, y: -42}
+        - {x: 38, y: -45}
+        - {x: 50, y: -45}
+        - {x: 50, y: -41}
+        - {x: 48, y: -39}
+        - {x: 41, y: -39}
+      - - {x: -45, y: -37}
+        - {x: -43, y: -40}
+        - {x: -36, y: -40}
+        - {x: -36, y: -33}
+        - {x: -37, y: -31}
+        - {x: -43, y: -31}
+        - {x: -45, y: -35}
+      - - {x: -40, y: -21}
+        - {x: -42, y: -23}
+        - {x: -42, y: -27}
+        - {x: -40, y: -29}
+        - {x: -36, y: -29}
+        - {x: -34, y: -27}
+        - {x: -34, y: -23}
+        - {x: -36, y: -21}
+      - - {x: 45, y: 13}
+        - {x: 45, y: 11}
+        - {x: 47, y: 9}
+        - {x: 50, y: 9}
+        - {x: 50, y: 16}
+        - {x: 48, y: 16}
+    - name: UIatlas17_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 356
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 390
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 35}
+        - {x: 57, y: 39}
+        - {x: -90, y: 39}
+        - {x: -195, y: 22}
+        - {x: -195, y: -39}
+        - {x: 195, y: -39}
+        - {x: 195, y: 23}
+        - {x: 150, y: 25}
+      - - {x: 145, y: 22}
+        - {x: 148, y: 23}
+        - {x: 148, y: 26}
+        - {x: 145, y: 27}
+        - {x: 143, y: 25}
+      - - {x: 96, y: 31}
+        - {x: 96, y: 29}
+        - {x: 98, y: 27}
+        - {x: 99, y: 27}
+        - {x: 102, y: 30}
+        - {x: 101, y: 33}
+        - {x: 98, y: 33}
+    - name: UIatlas17_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 318
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 16}
+        - {x: -41, y: -16}
+        - {x: 41, y: -16}
+        - {x: 41, y: 16}
+    - name: UIatlas17_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 264
+        width: 537
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UIatlas17_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 166
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 33}
+        - {x: -83, y: -33}
+        - {x: 83, y: -33}
+        - {x: 83, y: 33}
+    - name: UIatlas17_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 92
+        width: 137
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 84}
+        - {x: -68.5, y: -84}
+        - {x: 68.5, y: -84}
+        - {x: 68.5, y: 84}
+      - - {x: -44.5, y: -54}
+        - {x: -45.5, y: -53}
+        - {x: -44.5, y: -46}
+        - {x: -45.5, y: -45}
+        - {x: -44.5, y: -39}
+        - {x: -45.5, y: -38}
+        - {x: -44.5, y: -31}
+        - {x: -45.5, y: -30}
+        - {x: -44.5, y: -24}
+        - {x: -45.5, y: -23}
+        - {x: -44.5, y: -16}
+        - {x: -45.5, y: -15}
+        - {x: -44.5, y: -9}
+        - {x: -45.5, y: -8}
+        - {x: -45.5, y: 19}
+        - {x: -44.5, y: 21}
+        - {x: -45.5, y: 22}
+        - {x: -44.5, y: 29}
+        - {x: -45.5, y: 30}
+        - {x: -44.5, y: 36}
+        - {x: -45.5, y: 37}
+        - {x: -44.5, y: 44}
+        - {x: -45.5, y: 45}
+        - {x: -45.5, y: 52}
+        - {x: -42.5, y: 58}
+        - {x: -41.5, y: 57}
+        - {x: 20.5, y: 57}
+        - {x: 21.5, y: 58}
+        - {x: 27.5, y: 57}
+        - {x: 35.5, y: 57}
+        - {x: 36.5, y: 58}
+        - {x: 42.5, y: 57}
+        - {x: 45.5, y: 58}
+        - {x: 46.5, y: -57}
+        - {x: 45.5, y: -56}
+        - {x: 39.5, y: -57}
+        - {x: 38.5, y: -56}
+        - {x: 31.5, y: -57}
+        - {x: 30.5, y: -56}
+        - {x: 24.5, y: -57}
+        - {x: 23.5, y: -56}
+        - {x: 16.5, y: -57}
+        - {x: 15.5, y: -56}
+        - {x: 9.5, y: -57}
+        - {x: 8.5, y: -56}
+        - {x: 1.5, y: -57}
+        - {x: 0.5, y: -56}
+        - {x: -5.5, y: -57}
+        - {x: -6.5, y: -56}
+        - {x: -13.5, y: -57}
+        - {x: -14.5, y: -56}
+        - {x: -20.5, y: -57}
+        - {x: -21.5, y: -56}
+        - {x: -28.5, y: -57}
+        - {x: -29.5, y: -56}
+        - {x: -35.5, y: -57}
+        - {x: -36.5, y: -56}
+        - {x: -43.5, y: -57}
+        - {x: -44.5, y: -56}
+        - {x: -45.5, y: -57}
+    - name: UIatlas17_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 192
+        width: 166
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 33}
+        - {x: -83, y: -33}
+        - {x: 83, y: -33}
+        - {x: 83, y: 33}
+    - name: UIatlas17_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 77}
+        - {x: -66, y: 75}
+        - {x: -66, y: -77}
+        - {x: 66, y: -77}
+        - {x: 66, y: 77}
+    - name: UIatlas17_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 21
+        width: 166
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 33}
+        - {x: -83, y: -33}
+        - {x: 83, y: -33}
+        - {x: 83, y: 33}
+    - name: UIatlas17_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 16
+        width: 537
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

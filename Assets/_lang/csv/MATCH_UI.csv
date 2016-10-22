@@ -1,0 +1,7 @@
+sid,name,parentId,siblingId
+int,string,int,int
+序号,名字,父节点Id,顺序Id
+85,assets/dynamicresources/uiprefabs/ui/match_ui/infopanel.prefab,84,0
+111,assets/dynamicresources/uiprefabs/ui/match_ui/createuserpanel.prefab,84,1
+120,assets/dynamicresources/uiprefabs/ui/match_ui/mask.prefab,84,2
+122,assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab,84,3

@@ -1,0 +1,10 @@
+sid,name,parentId,siblingId
+int,string,int,int
+序号,名字,父节点Id,顺序Id
+4,assets/dynamicresources/uiprefabs/ui/fight_ui/minimapframe.prefab,3,0
+7,assets/dynamicresources/uiprefabs/ui/fight_ui/headinfo.prefab,6,0
+19,assets/dynamicresources/uiprefabs/ui/fight_ui/bottomleft.prefab,0,1
+22,assets/dynamicresources/uiprefabs/ui/fight_ui/bottomright.prefab,0,2
+55,assets/dynamicresources/uiprefabs/ui/fight_ui/topright.prefab,0,3
+59,assets/dynamicresources/uiprefabs/ui/fight_ui/settingspanel.prefab,57,1
+70,assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab,57,2

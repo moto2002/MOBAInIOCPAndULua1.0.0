@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3557669398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f58634c123b1328bbd8336401dae0257
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/FightUI/UIatlas8.png
+- Assets/DynamicResources/FightUI/UIatlas5.png
+- Assets/DynamicResources/FightUI/MiniMapIcon.png
+- Assets/DynamicResources/FightUI/MapAtlasSmall.png
+- Assets/DynamicResources/FightUI/UIatlas11.png
+- Assets/DynamicResources/FightUI/RoundHead.png
+- Assets/DynamicResources/FightUI/UIatlas17.png
+- Assets/DynamicResources/FightUI/pvpmap004.png
+- Assets/DynamicResources/FightUI/UIAtlas3.png
+- Assets/DynamicResources/FightUI/MapAtlas.png
+- Assets/DynamicResources/FightUI/SkillIcon.png
+- Assets/DynamicResources/FightUI/RunesIcon.png
+- Assets/DynamicResources/FightUI/UIatlas2.png
+- Assets/DynamicResources/FightUI/shopicon.png
+- Assets/DynamicResources/FightUI/UIatlas4.png
+- Assets/DynamicResources/FightUI/UIatlas9.png
+Dependencies: []

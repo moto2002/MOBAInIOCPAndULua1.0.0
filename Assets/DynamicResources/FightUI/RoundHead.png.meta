@@ -1,0 +1,1110 @@
+fileFormatVersion: 2
+guid: 42120aa5fa01846468e546147408b4f3
+timeCreated: 1473864420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RoundHead_0
+    21300002: RoundHead_1
+    21300004: RoundHead_2
+    21300006: RoundHead_3
+    21300008: RoundHead_4
+    21300010: RoundHead_5
+    21300012: RoundHead_6
+    21300014: RoundHead_7
+    21300016: RoundHead_8
+    21300018: RoundHead_9
+    21300020: RoundHead_10
+    21300022: RoundHead_11
+    21300024: RoundHead_12
+    21300026: RoundHead_13
+    21300028: RoundHead_14
+    21300030: RoundHead_15
+    21300032: RoundHead_16
+    21300034: RoundHead_17
+    21300036: RoundHead_18
+    21300038: RoundHead_19
+    21300040: RoundHead_20
+    21300042: RoundHead_21
+    21300044: RoundHead_22
+    21300046: RoundHead_23
+    21300048: RoundHead_24
+    21300050: RoundHead_25
+    21300052: RoundHead_26
+    21300054: RoundHead_27
+    21300056: RoundHead_28
+    21300058: RoundHead_29
+    21300060: RoundHead_30
+    21300062: RoundHead_31
+    21300064: RoundHead_32
+    21300066: RoundHead_33
+    21300068: RoundHead_34
+    21300070: RoundHead_35
+    21300072: RoundHead_36
+    21300074: RoundHead_37
+    21300076: RoundHead_38
+    21300078: RoundHead_39
+    21300080: RoundHead_40
+    21300082: RoundHead_41
+    21300084: RoundHead_42
+    21300086: RoundHead_43
+    21300088: RoundHead_44
+    21300090: RoundHead_45
+    21300092: RoundHead_46
+    21300094: RoundHead_47
+    21300096: RoundHead_48
+    21300098: RoundHead_49
+    21300100: RoundHead_50
+    21300102: RoundHead_51
+    21300104: RoundHead_52
+    21300106: RoundHead_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RoundHead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1015
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1010
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 999
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 994
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 932
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 45}
+        - {x: -30.5, y: 38}
+        - {x: -37.5, y: 27}
+        - {x: -41.5, y: 9}
+        - {x: -41.5, y: -24}
+        - {x: -26.5, y: -43}
+        - {x: -21.5, y: -45}
+        - {x: 19.5, y: -45}
+        - {x: 41.5, y: -29}
+        - {x: 41.5, y: 23}
+        - {x: 23.5, y: 45}
+    - name: RoundHead_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 931
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 45}
+        - {x: -37.5, y: 32}
+        - {x: -36.5, y: 28}
+        - {x: -42.5, y: 7}
+        - {x: -42.5, y: -22}
+        - {x: -24.5, y: -45}
+        - {x: 36.5, y: -45}
+        - {x: 42.5, y: -40}
+        - {x: 42.5, y: 35}
+        - {x: 37.5, y: 45}
+    - name: RoundHead_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 931
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 46.5}
+        - {x: -43.5, y: -43.5}
+        - {x: -20.5, y: -46.5}
+        - {x: 34.5, y: -46.5}
+        - {x: 43.5, y: -43.5}
+        - {x: 43.5, y: 46.5}
+    - name: RoundHead_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 931
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46.5}
+        - {x: -40.5, y: -40.5}
+        - {x: -20.5, y: -46.5}
+        - {x: 34.5, y: -46.5}
+        - {x: 40.5, y: -36.5}
+        - {x: 40.5, y: 46.5}
+    - name: RoundHead_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 931
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 46.5}
+        - {x: -25, y: 46.5}
+        - {x: -44, y: 37.5}
+        - {x: -44, y: -45.5}
+        - {x: -40, y: -46.5}
+        - {x: 37, y: -46.5}
+        - {x: 44, y: -31.5}
+        - {x: 44, y: 34.5}
+    - name: RoundHead_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 931
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 46.5}
+        - {x: -29.5, y: 46.5}
+        - {x: -46.5, y: 33.5}
+        - {x: -46.5, y: -27.5}
+        - {x: -38.5, y: -46.5}
+        - {x: 21.5, y: -46.5}
+        - {x: 46.5, y: -28.5}
+        - {x: 46.5, y: 30.5}
+    - name: RoundHead_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 931
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 46.5}
+        - {x: -43, y: -22.5}
+        - {x: -35, y: -46.5}
+        - {x: 43, y: -46.5}
+        - {x: 43, y: 46.5}
+    - name: RoundHead_12
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 931
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 46.5}
+        - {x: -46, y: 41.5}
+        - {x: -46, y: -36.5}
+        - {x: -36, y: -46.5}
+        - {x: 23, y: -46.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 33.5}
+        - {x: 38, y: 46.5}
+    - name: RoundHead_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 892
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 47}
+        - {x: -43, y: 43}
+        - {x: -46, y: 42}
+        - {x: -46, y: -40}
+        - {x: -25, y: -47}
+        - {x: 29, y: -47}
+        - {x: 46, y: -31}
+        - {x: 46, y: 33}
+        - {x: 32, y: 47}
+    - name: RoundHead_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 946
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 46.5}
+        - {x: -30, y: 46.5}
+        - {x: -44, y: 23.5}
+        - {x: -44, y: -22.5}
+        - {x: -43, y: -27.5}
+        - {x: -30, y: -46.5}
+        - {x: 29, y: -46.5}
+        - {x: 40, y: -34.5}
+        - {x: 44, y: -20.5}
+        - {x: 44, y: 39.5}
+    - name: RoundHead_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 830
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 46.5}
+        - {x: -46, y: 37.5}
+        - {x: -46, y: -27.5}
+        - {x: -27, y: -46.5}
+        - {x: 39, y: -46.5}
+        - {x: 46, y: -14.5}
+        - {x: 46, y: 34.5}
+        - {x: 22, y: 46.5}
+    - name: RoundHead_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 828
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 47.5}
+        - {x: -45.5, y: 36.5}
+        - {x: -45.5, y: -31.5}
+        - {x: -30.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 45.5, y: -34.5}
+        - {x: 45.5, y: 21.5}
+        - {x: 24.5, y: 47.5}
+    - name: RoundHead_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 833
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 42.5}
+        - {x: -9, y: 22.5}
+        - {x: -10, y: 9.5}
+        - {x: -25, y: 15.5}
+        - {x: -34, y: 16.5}
+        - {x: -37, y: 1.5}
+        - {x: -37, y: -33.5}
+        - {x: -30, y: -42.5}
+        - {x: 27, y: -42.5}
+        - {x: 37, y: -39.5}
+        - {x: 37, y: 42.5}
+    - name: RoundHead_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 830
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 46}
+        - {x: -46.5, y: 37}
+        - {x: -46.5, y: -29}
+        - {x: -30.5, y: -46}
+        - {x: 27.5, y: -46}
+        - {x: 46.5, y: -31}
+        - {x: 46.5, y: 35}
+        - {x: 31.5, y: 46}
+    - name: RoundHead_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 830
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 46.5}
+        - {x: -46, y: 22.5}
+        - {x: -46, y: -40.5}
+        - {x: -31, y: -46.5}
+        - {x: 27, y: -46.5}
+        - {x: 46, y: -26.5}
+        - {x: 46, y: 21.5}
+        - {x: 21, y: 46.5}
+    - name: RoundHead_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 830
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 47}
+        - {x: -47.5, y: 27}
+        - {x: -47.5, y: -30}
+        - {x: -41.5, y: -47}
+        - {x: 34.5, y: -47}
+        - {x: 47.5, y: -40}
+        - {x: 47.5, y: 47}
+    - name: RoundHead_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 828
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 47.5}
+        - {x: -45.5, y: 25.5}
+        - {x: -45.5, y: -33.5}
+        - {x: -38.5, y: -47.5}
+        - {x: 29.5, y: -47.5}
+        - {x: 44.5, y: -29.5}
+        - {x: 44.5, y: 16.5}
+        - {x: 35.5, y: 47.5}
+      - - {x: 41.5, y: -12.5}
+        - {x: 43.5, y: -14.5}
+        - {x: 45.5, y: -13.5}
+        - {x: 45.5, y: -4.5}
+        - {x: 42.5, y: -5.5}
+    - name: RoundHead_23
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 828
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -47.5}
+        - {x: 32.5, y: -47.5}
+        - {x: 44.5, y: -25.5}
+        - {x: 44.5, y: 38.5}
+        - {x: 37.5, y: 46.5}
+        - {x: 34.5, y: 47.5}
+        - {x: -33.5, y: 47.5}
+        - {x: -44.5, y: 36.5}
+        - {x: -44.5, y: -40.5}
+        - {x: -20.5, y: -47.5}
+        - {x: 14.5, y: -47.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 4.5, y: -35.5}
+        - {x: 15.5, y: -45.5}
+    - name: RoundHead_24
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 828
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -4}
+        - {x: 41.5, y: 10}
+        - {x: 42.5, y: 12}
+        - {x: 42.5, y: 45}
+        - {x: 33.5, y: 48}
+        - {x: -22.5, y: 48}
+        - {x: -27.5, y: 44}
+        - {x: -42.5, y: 30}
+        - {x: -42.5, y: -24}
+        - {x: -32.5, y: -48}
+        - {x: 22.5, y: -48}
+        - {x: 42.5, y: -41}
+        - {x: 42.5, y: -35}
+        - {x: 39.5, y: -7}
+        - {x: 36.5, y: -6}
+        - {x: 34.5, y: -6}
+    - name: RoundHead_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 691
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 46.5}
+        - {x: -35.5, y: 39.5}
+        - {x: -35.5, y: -24.5}
+        - {x: -34.5, y: -28.5}
+        - {x: -25.5, y: -46.5}
+        - {x: 35.5, y: -46.5}
+        - {x: 35.5, y: 26.5}
+        - {x: 20.5, y: 46.5}
+      - - {x: 31.5, y: -36.5}
+        - {x: 31.5, y: -37.5}
+        - {x: 33.5, y: -39.5}
+        - {x: 35.5, y: -38.5}
+        - {x: 35.5, y: -33.5}
+        - {x: 34.5, y: -33.5}
+    - name: RoundHead_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 730
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 46}
+        - {x: -40, y: 33}
+        - {x: -43, y: 20}
+        - {x: -43, y: -23}
+        - {x: -26, y: -46}
+        - {x: 40, y: -46}
+        - {x: 43, y: -39}
+        - {x: 43, y: 28}
+        - {x: 28, y: 46}
+    - name: RoundHead_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 730
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 12.5}
+        - {x: 21, y: 7.5}
+        - {x: 20, y: 5.5}
+        - {x: 20, y: 2.5}
+        - {x: 18, y: 24.5}
+        - {x: 8, y: 44.5}
+        - {x: -8, y: 44.5}
+        - {x: -37, y: 10.5}
+        - {x: -37, y: -20.5}
+        - {x: -25, y: -44.5}
+        - {x: 16, y: -44.5}
+        - {x: 19, y: -43.5}
+        - {x: 37, y: -20.5}
+        - {x: 37, y: 2.5}
+    - name: RoundHead_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 728
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 47}
+        - {x: -44.5, y: -38}
+        - {x: -35.5, y: -47}
+        - {x: 40.5, y: -47}
+        - {x: 44.5, y: -42}
+        - {x: 44.5, y: 47}
+    - name: RoundHead_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 730
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46}
+        - {x: -40, y: 43}
+        - {x: -40, y: -31}
+        - {x: -35, y: -46}
+        - {x: 31, y: -46}
+        - {x: 40, y: -41}
+        - {x: 40, y: 46}
+    - name: RoundHead_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 728
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 48}
+        - {x: -44, y: 24}
+        - {x: -44, y: -37}
+        - {x: -40, y: -48}
+        - {x: 44, y: -48}
+        - {x: 44, y: 48}
+    - name: RoundHead_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 728
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -10}
+        - {x: 35, y: -11}
+        - {x: 33, y: 20}
+        - {x: 26, y: 47}
+        - {x: -35, y: 47}
+        - {x: -44, y: 31}
+        - {x: -44, y: -30}
+        - {x: -32, y: -47}
+        - {x: 29, y: -47}
+        - {x: 36, y: -44}
+        - {x: 44, y: -28}
+        - {x: 44, y: -11}
+    - name: RoundHead_32
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 729
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 43.5}
+        - {x: -42.5, y: 30.5}
+        - {x: -42.5, y: -35.5}
+        - {x: -23.5, y: -43.5}
+        - {x: 35.5, y: -43.5}
+        - {x: 37.5, y: -41.5}
+        - {x: 42.5, y: -20.5}
+        - {x: 42.5, y: 43.5}
+    - name: RoundHead_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 729
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 45.5}
+        - {x: -40, y: 22.5}
+        - {x: -40, y: -25.5}
+        - {x: -26, y: -45.5}
+        - {x: 31, y: -45.5}
+        - {x: 40, y: -36.5}
+        - {x: 40, y: 37.5}
+        - {x: 31, y: 45.5}
+    - name: RoundHead_34
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 728
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 47}
+        - {x: -43.5, y: 32}
+        - {x: -43.5, y: -35}
+        - {x: -24.5, y: -47}
+        - {x: 27.5, y: -47}
+        - {x: 43.5, y: -21}
+        - {x: 43.5, y: 23}
+        - {x: 32.5, y: 47}
+    - name: RoundHead_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 700
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 628
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -6.5}
+        - {x: 16, y: -4.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: -8.5}
+        - {x: 43, y: -40.5}
+        - {x: 46, y: -30.5}
+        - {x: 46, y: 27.5}
+        - {x: 28, y: 46.5}
+        - {x: -33, y: 46.5}
+        - {x: -46, y: 30.5}
+        - {x: -46, y: -44.5}
+        - {x: -41, y: -46.5}
+        - {x: 32, y: -46.5}
+        - {x: 36, y: -37.5}
+        - {x: 28, y: -24.5}
+        - {x: 19, y: -10.5}
+    - name: RoundHead_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 46}
+        - {x: -43.5, y: 30}
+        - {x: -43.5, y: -23}
+        - {x: -25.5, y: -45}
+        - {x: -22.5, y: -46}
+        - {x: 21.5, y: -46}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: 26}
+        - {x: 17.5, y: 46}
+    - name: RoundHead_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 630
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 44}
+        - {x: -26, y: 32}
+        - {x: -26, y: -44}
+        - {x: 26, y: -44}
+        - {x: 26, y: 6}
+        - {x: 14, y: 44}
+    - name: RoundHead_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 628
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 45}
+        - {x: -41.5, y: 42}
+        - {x: -41.5, y: -32}
+        - {x: -37.5, y: -45}
+        - {x: 41.5, y: -45}
+        - {x: 41.5, y: 45}
+    - name: RoundHead_40
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 628
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 45}
+        - {x: -45.5, y: 31}
+        - {x: -45.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 45.5, y: -25}
+        - {x: 45.5, y: 24}
+        - {x: 31.5, y: 45}
+    - name: RoundHead_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 628
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 46.5}
+        - {x: -23, y: 29.5}
+        - {x: -45, y: -1.5}
+        - {x: -45, y: -39.5}
+        - {x: -23, y: -46.5}
+        - {x: 30, y: -46.5}
+        - {x: 45, y: -32.5}
+        - {x: 45, y: -9.5}
+        - {x: 17, y: 46.5}
+    - name: RoundHead_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 628
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 46}
+        - {x: -13, y: 46}
+        - {x: -42, y: 30}
+        - {x: -42, y: -30}
+        - {x: -20, y: -46}
+        - {x: 29, y: -46}
+        - {x: 39, y: -44}
+        - {x: 42, y: -38}
+        - {x: 42, y: 5}
+        - {x: 34, y: 39}
+    - name: RoundHead_43
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 700
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_44
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 703
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_45
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 628
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 45}
+        - {x: 8.5, y: 39}
+        - {x: 8.5, y: 35}
+        - {x: 10.5, y: 33}
+        - {x: 9.5, y: 32}
+        - {x: 9.5, y: 28}
+        - {x: 9.5, y: 33}
+        - {x: 8.5, y: 34}
+        - {x: 8.5, y: 38}
+        - {x: 7.5, y: 40}
+        - {x: -0.5, y: 45}
+        - {x: -31.5, y: 45}
+        - {x: -43.5, y: 18}
+        - {x: -43.5, y: -33}
+        - {x: -33.5, y: -45}
+        - {x: 43.5, y: -45}
+        - {x: 43.5, y: 32}
+        - {x: 29.5, y: 45}
+    - name: RoundHead_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 46.5}
+        - {x: -41.5, y: 32.5}
+        - {x: -41.5, y: -33.5}
+        - {x: -34.5, y: -46.5}
+        - {x: 31.5, y: -46.5}
+        - {x: 41.5, y: -36.5}
+        - {x: 41.5, y: 42.5}
+        - {x: 31.5, y: 46.5}
+    - name: RoundHead_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 646
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RoundHead_48
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 630
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 35.5}
+        - {x: -32.5, y: 18.5}
+        - {x: -32.5, y: -26.5}
+        - {x: -19.5, y: -35.5}
+        - {x: 26.5, y: -35.5}
+        - {x: 32.5, y: -26.5}
+        - {x: 32.5, y: 20.5}
+        - {x: 6.5, y: 35.5}
+    - name: RoundHead_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 528
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: -8, y: 44}
+        - {x: -29, y: 27}
+        - {x: -29, y: -44}
+        - {x: 19, y: -44}
+        - {x: 24, y: -43}
+        - {x: 29, y: -30}
+        - {x: 29, y: 6}
+        - {x: 27, y: 17}
+    - name: RoundHead_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 527
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -46.5, y: 38.5}
+        - {x: -46.5, y: -37.5}
+        - {x: -28.5, y: -45.5}
+        - {x: -22.5, y: -46.5}
+        - {x: 36.5, y: -46.5}
+        - {x: 46.5, y: -22.5}
+        - {x: 46.5, y: 37.5}
+    - name: RoundHead_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 527
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 46.5}
+        - {x: -45.5, y: 40.5}
+        - {x: -45.5, y: -37.5}
+        - {x: -33.5, y: -46.5}
+        - {x: 28.5, y: -46.5}
+        - {x: 45.5, y: -34.5}
+        - {x: 45.5, y: 43.5}
+        - {x: 32.5, y: 46.5}
+    - name: RoundHead_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 527
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -42.5, y: 18.5}
+        - {x: -42.5, y: -27.5}
+        - {x: -26.5, y: -44.5}
+        - {x: 30.5, y: -44.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: 34.5}
+        - {x: 31.5, y: 44.5}
+    - name: RoundHead_53
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 517
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 49.5}
+        - {x: -46.5, y: 28.5}
+        - {x: -46.5, y: -30.5}
+        - {x: -33.5, y: -49.5}
+        - {x: 34.5, y: -49.5}
+        - {x: 46.5, y: -39.5}
+        - {x: 46.5, y: 47.5}
+        - {x: 44.5, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

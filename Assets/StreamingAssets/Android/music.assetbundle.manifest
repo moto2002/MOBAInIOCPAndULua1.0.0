@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3519463004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38888780f11b04f04b9d78c6138974cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/Music/513028.mp3
+Dependencies: []

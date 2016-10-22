@@ -1,0 +1,13 @@
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\OneByOne.dll
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\myLOL\LOL\LOLClient\obj\Debug\UnityVS.LOLClient.CSharp.csprojResolveAssemblyReference.cache
+D:\myLOL\LOL\LOLClient\obj\Debug\Assembly-CSharp.dll
+D:\myLOL\LOL\LOLClient\obj\Debug\Assembly-CSharp.pdb
+D:\myLOL\LOL\LOLClient\Temp\UnityVS_bin\Debug\Constans.dll

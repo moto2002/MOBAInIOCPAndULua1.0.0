@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 2590412271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 504f53a78f5b53b366d03ddbf3f3f021
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d53c2d1307c560923005793e69b1fce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 29
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54a68930b9d8aab47990d261e3de81d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f56f811272e7ce4199e8c7fa57d62e0, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1997211142, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47c0a213c382fe84699c2b35e2dda723, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bcce6832183e7e4a89c1b1e425b9a22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4767bc4eb67f70478ee40c192561b3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4734144a275d9174ab184b961e1c374e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bbde85fb2d6b0a4298b37c57c8c8a97, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 192
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/fightScene4.unity
+Dependencies: []

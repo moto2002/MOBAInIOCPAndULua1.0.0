@@ -1,0 +1,15 @@
+require "Common/functions"
+
+local m_gameObject
+
+function open_view()
+	m_gameObject:SetActive(true)
+	print("view opened")
+end
+
+function Test(gameObject)
+	m_gameObject = gameObject
+
+	m_gameObject:SetActive(false)
+	log("hello world")
+end

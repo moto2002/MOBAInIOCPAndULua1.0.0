@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\uLua\Core\Lua.cs">
+    <Files>
+      <File FileName="Assets\uLua\Source\Base\LuaScriptMgr.cs" Line="583" Column="1" />
+      <File FileName="Assets\uLua\Core\Lua.cs" Line="288" Column="40" />
+      <File FileName="Assets\uLua\Core\LuaStatic.cs" Line="13" Column="5" />
+      <File FileName="Assets\Script\Tools\Util.cs" Line="75" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\LOLClient\Assets\uLua\Core\Lua.cs" line="299" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

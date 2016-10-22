@@ -1,0 +1,2020 @@
+fileFormatVersion: 2
+guid: 2022f19b0e446ca4fafb15b1c78465e2
+timeCreated: 1473868073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RunesIcon_0
+    21300002: RunesIcon_1
+    21300004: RunesIcon_2
+    21300006: RunesIcon_3
+    21300008: RunesIcon_4
+    21300010: RunesIcon_5
+    21300012: RunesIcon_6
+    21300014: RunesIcon_7
+    21300016: RunesIcon_8
+    21300018: RunesIcon_9
+    21300020: RunesIcon_10
+    21300022: RunesIcon_11
+    21300024: RunesIcon_12
+    21300026: RunesIcon_13
+    21300028: RunesIcon_14
+    21300030: RunesIcon_15
+    21300032: RunesIcon_16
+    21300034: RunesIcon_17
+    21300036: RunesIcon_18
+    21300038: RunesIcon_19
+    21300040: RunesIcon_20
+    21300042: RunesIcon_21
+    21300044: RunesIcon_22
+    21300046: RunesIcon_23
+    21300048: RunesIcon_24
+    21300050: RunesIcon_25
+    21300052: RunesIcon_26
+    21300054: RunesIcon_27
+    21300056: RunesIcon_28
+    21300058: RunesIcon_29
+    21300060: RunesIcon_30
+    21300062: RunesIcon_31
+    21300064: RunesIcon_32
+    21300066: RunesIcon_33
+    21300068: RunesIcon_34
+    21300070: RunesIcon_35
+    21300072: RunesIcon_36
+    21300074: RunesIcon_37
+    21300076: RunesIcon_38
+    21300078: RunesIcon_39
+    21300080: RunesIcon_40
+    21300082: RunesIcon_41
+    21300084: RunesIcon_42
+    21300086: RunesIcon_43
+    21300088: RunesIcon_44
+    21300090: RunesIcon_45
+    21300092: RunesIcon_46
+    21300094: RunesIcon_47
+    21300096: RunesIcon_48
+    21300098: RunesIcon_49
+    21300100: RunesIcon_50
+    21300102: RunesIcon_51
+    21300104: RunesIcon_52
+    21300106: RunesIcon_53
+    21300108: RunesIcon_54
+    21300110: RunesIcon_55
+    21300112: RunesIcon_56
+    21300114: RunesIcon_57
+    21300116: RunesIcon_58
+    21300118: RunesIcon_59
+    21300120: RunesIcon_60
+    21300122: RunesIcon_61
+    21300124: RunesIcon_62
+    21300126: RunesIcon_63
+    21300128: RunesIcon_64
+    21300130: RunesIcon_65
+    21300132: RunesIcon_66
+    21300134: RunesIcon_67
+    21300136: RunesIcon_68
+    21300138: RunesIcon_69
+    21300140: RunesIcon_70
+    21300142: RunesIcon_71
+    21300144: RunesIcon_72
+    21300146: RunesIcon_73
+    21300148: RunesIcon_74
+    21300150: RunesIcon_75
+    21300152: RunesIcon_76
+    21300154: RunesIcon_77
+    21300156: RunesIcon_78
+    21300158: RunesIcon_79
+    21300160: RunesIcon_80
+    21300162: RunesIcon_81
+    21300164: RunesIcon_82
+    21300166: RunesIcon_83
+    21300168: RunesIcon_84
+    21300170: RunesIcon_85
+    21300172: RunesIcon_86
+    21300174: RunesIcon_87
+    21300176: RunesIcon_88
+    21300178: RunesIcon_89
+    21300180: RunesIcon_90
+    21300182: RunesIcon_91
+    21300184: RunesIcon_92
+    21300186: RunesIcon_93
+    21300188: RunesIcon_94
+    21300190: RunesIcon_95
+    21300192: RunesIcon_96
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RunesIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -44.5}
+        - {x: 46, y: 44.5}
+        - {x: -46, y: 44.5}
+        - {x: -46, y: -44.5}
+    - name: RunesIcon_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 935
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 44.5}
+        - {x: -46, y: -44.5}
+        - {x: 46, y: -44.5}
+        - {x: 46, y: 44.5}
+    - name: RunesIcon_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 944
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 35.5}
+        - {x: -34, y: 1.5}
+        - {x: -34, y: -35.5}
+        - {x: 11, y: -35.5}
+        - {x: 35, y: -5.5}
+        - {x: 35, y: 35.5}
+    - name: RunesIcon_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 948
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 34}
+        - {x: -39, y: 30}
+        - {x: -42, y: 26}
+        - {x: -42, y: -21}
+        - {x: -37, y: -34}
+        - {x: 28, y: -34}
+        - {x: 42, y: -21}
+        - {x: 42, y: 31}
+        - {x: 35, y: 34}
+    - name: RunesIcon_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 940
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 940
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 940
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: RunesIcon_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 940
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 940
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: RunesIcon_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 940
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 42}
+        - {x: -40, y: 29}
+        - {x: -40, y: -33}
+        - {x: -15, y: -42}
+        - {x: 24, y: -42}
+        - {x: 40, y: -31}
+        - {x: 40, y: 30}
+        - {x: 19, y: 42}
+    - name: RunesIcon_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 940
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 42}
+        - {x: -15.5, y: 42}
+        - {x: -26.5, y: 35}
+        - {x: -33.5, y: 27}
+        - {x: -39.5, y: 20}
+        - {x: -39.5, y: -26}
+        - {x: -17.5, y: -42}
+        - {x: 12.5, y: -42}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: 28}
+        - {x: 38.5, y: 36}
+    - name: RunesIcon_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 940
+        width: 52
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RunesIcon_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 852
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 31.5}
+        - {x: -30, y: 4.5}
+        - {x: -30, y: -26.5}
+        - {x: -29, y: -31.5}
+        - {x: 10, y: -31.5}
+        - {x: 23, y: -28.5}
+        - {x: 30, y: -17.5}
+        - {x: 30, y: 31.5}
+    - name: RunesIcon_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 843
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 42}
+        - {x: -40, y: 29}
+        - {x: -40, y: -33}
+        - {x: -15, y: -42}
+        - {x: 24, y: -42}
+        - {x: 40, y: -31}
+        - {x: 40, y: 30}
+        - {x: 19, y: 42}
+    - name: RunesIcon_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 848
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 42}
+        - {x: -40, y: 29}
+        - {x: -40, y: -33}
+        - {x: -15, y: -42}
+        - {x: 24, y: -42}
+        - {x: 40, y: -31}
+        - {x: 40, y: 30}
+        - {x: 19, y: 42}
+    - name: RunesIcon_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 848
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 42}
+        - {x: -34, y: 29}
+        - {x: -34, y: -11}
+        - {x: -31, y: -26}
+        - {x: -24, y: -42}
+        - {x: 30, y: -42}
+        - {x: 34, y: -35}
+        - {x: 34, y: 27}
+        - {x: 31, y: 42}
+    - name: RunesIcon_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 848
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 42}
+        - {x: -40, y: 29}
+        - {x: -40, y: -33}
+        - {x: -15, y: -42}
+        - {x: 24, y: -42}
+        - {x: 40, y: -31}
+        - {x: 40, y: 30}
+        - {x: 19, y: 42}
+    - name: RunesIcon_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 848
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 42}
+        - {x: -34, y: 29}
+        - {x: -34, y: -11}
+        - {x: -31, y: -26}
+        - {x: -24, y: -42}
+        - {x: 30, y: -42}
+        - {x: 34, y: -35}
+        - {x: 34, y: 27}
+        - {x: 31, y: 42}
+    - name: RunesIcon_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 848
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 42}
+        - {x: -15.5, y: 42}
+        - {x: -26.5, y: 35}
+        - {x: -33.5, y: 27}
+        - {x: -39.5, y: 20}
+        - {x: -39.5, y: -26}
+        - {x: -17.5, y: -42}
+        - {x: 12.5, y: -42}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: 28}
+        - {x: 38.5, y: 36}
+    - name: RunesIcon_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 848
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 42}
+        - {x: -34, y: 29}
+        - {x: -34, y: -11}
+        - {x: -31, y: -26}
+        - {x: -24, y: -42}
+        - {x: 30, y: -42}
+        - {x: 34, y: -35}
+        - {x: 34, y: 27}
+        - {x: 31, y: 42}
+    - name: RunesIcon_20
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 848
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 42}
+        - {x: -40, y: 29}
+        - {x: -40, y: -33}
+        - {x: -15, y: -42}
+        - {x: 24, y: -42}
+        - {x: 40, y: -31}
+        - {x: 40, y: 30}
+        - {x: 19, y: 42}
+    - name: RunesIcon_21
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 848
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 42}
+        - {x: -34, y: 29}
+        - {x: -34, y: -11}
+        - {x: -31, y: -26}
+        - {x: -24, y: -42}
+        - {x: 30, y: -42}
+        - {x: 34, y: -35}
+        - {x: 34, y: 27}
+        - {x: 31, y: 42}
+    - name: RunesIcon_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 848
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 753
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 41}
+        - {x: -27.5, y: 41}
+        - {x: -41.5, y: 28}
+        - {x: -41.5, y: -25}
+        - {x: -29.5, y: -41}
+        - {x: 26.5, y: -41}
+        - {x: 37.5, y: -34}
+        - {x: 41.5, y: -24}
+        - {x: 41.5, y: 26}
+    - name: RunesIcon_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 759
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.5}
+        - {x: -25.5, y: 35.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -40.5, y: -29.5}
+        - {x: -25.5, y: -35.5}
+        - {x: 29.5, y: -35.5}
+        - {x: 40.5, y: -17.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 22.5, y: 31.5}
+    - name: RunesIcon_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 758
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 759
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 40.5}
+        - {x: -43, y: -40.5}
+        - {x: 30, y: -40.5}
+        - {x: 42, y: -17.5}
+        - {x: 42, y: 40.5}
+    - name: RunesIcon_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 759
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 40.5}
+        - {x: -40.5, y: 37.5}
+        - {x: -40.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: 34.5, y: -40.5}
+        - {x: 40.5, y: -23.5}
+        - {x: 40.5, y: 40.5}
+    - name: RunesIcon_29
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 779
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: -28.5}
+        - {x: -23, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 25.5}
+        - {x: 28, y: 30.5}
+    - name: RunesIcon_30
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 779
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: -29.5}
+        - {x: -24, y: -30.5}
+        - {x: 28, y: -30.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 30.5}
+    - name: RunesIcon_31
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 779
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 30.5}
+        - {x: -30.5, y: 27.5}
+        - {x: -30.5, y: -26.5}
+        - {x: -29.5, y: -30.5}
+        - {x: 24.5, y: -30.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 30.5, y: 19.5}
+        - {x: 26.5, y: 30.5}
+    - name: RunesIcon_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 779
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: -29.5}
+        - {x: -24, y: -30.5}
+        - {x: 28, y: -30.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 30.5}
+    - name: RunesIcon_33
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 779
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -30, y: 20.5}
+        - {x: -30, y: -27.5}
+        - {x: -29, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 30, y: -28.5}
+        - {x: 30, y: 23.5}
+        - {x: 28, y: 30.5}
+    - name: RunesIcon_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 779
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: -28.5}
+        - {x: -23, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 25.5}
+        - {x: 28, y: 30.5}
+    - name: RunesIcon_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 659
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 669
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.5}
+        - {x: -25.5, y: 35.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -40.5, y: -29.5}
+        - {x: -25.5, y: -35.5}
+        - {x: 29.5, y: -35.5}
+        - {x: 40.5, y: -17.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 22.5, y: 31.5}
+    - name: RunesIcon_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 669
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.5}
+        - {x: -25.5, y: 35.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -40.5, y: -29.5}
+        - {x: -25.5, y: -35.5}
+        - {x: 29.5, y: -35.5}
+        - {x: 40.5, y: -17.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 22.5, y: 31.5}
+    - name: RunesIcon_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 663
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 668
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 41}
+        - {x: -41.5, y: 26}
+        - {x: -41.5, y: -21}
+        - {x: -37.5, y: -38}
+        - {x: -28.5, y: -41}
+        - {x: 32.5, y: -41}
+        - {x: 41.5, y: -30}
+        - {x: 41.5, y: 18}
+        - {x: 32.5, y: 41}
+    - name: RunesIcon_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 670
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 40.5}
+        - {x: -40.5, y: 37.5}
+        - {x: -40.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: 34.5, y: -40.5}
+        - {x: 40.5, y: -23.5}
+        - {x: 40.5, y: 40.5}
+    - name: RunesIcon_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 710
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: -28.5}
+        - {x: -23, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 25.5}
+        - {x: 28, y: 30.5}
+    - name: RunesIcon_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 708
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31.5}
+        - {x: -30, y: 26.5}
+        - {x: -30, y: -28.5}
+        - {x: -25, y: -30.5}
+        - {x: -14, y: -31.5}
+        - {x: 23, y: -31.5}
+        - {x: 30, y: -28.5}
+        - {x: 30, y: 26.5}
+        - {x: 28, y: 31.5}
+    - name: RunesIcon_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 710
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30.5}
+        - {x: -20.5, y: 26.5}
+        - {x: -30.5, y: 20.5}
+        - {x: -30.5, y: -21.5}
+        - {x: -27.5, y: -30.5}
+        - {x: 28.5, y: -30.5}
+        - {x: 30.5, y: -25.5}
+        - {x: 30.5, y: 21.5}
+        - {x: 17.5, y: 30.5}
+    - name: RunesIcon_44
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 710
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: -28.5}
+        - {x: -23, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 25.5}
+        - {x: 28, y: 30.5}
+    - name: RunesIcon_45
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 710
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: -29.5}
+        - {x: -24, y: -30.5}
+        - {x: 28, y: -30.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 30.5}
+    - name: RunesIcon_46
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 710
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: -29.5}
+        - {x: -24, y: -30.5}
+        - {x: 28, y: -30.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 30.5}
+    - name: RunesIcon_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 36}
+        - {x: -36, y: 28}
+        - {x: -36, y: -36}
+        - {x: 36, y: -36}
+        - {x: 36, y: 28}
+        - {x: 28, y: 36}
+    - name: RunesIcon_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 579
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.5}
+        - {x: -25.5, y: 35.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -40.5, y: -29.5}
+        - {x: -25.5, y: -35.5}
+        - {x: 29.5, y: -35.5}
+        - {x: 40.5, y: -17.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 22.5, y: 31.5}
+    - name: RunesIcon_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 579
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 36.5}
+        - {x: -20.5, y: 36.5}
+        - {x: -26.5, y: 35.5}
+        - {x: -40.5, y: 16.5}
+        - {x: -40.5, y: -32.5}
+        - {x: -27.5, y: -36.5}
+        - {x: 26.5, y: -36.5}
+        - {x: 40.5, y: -22.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 36.5, y: 23.5}
+    - name: RunesIcon_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 572
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 41.5}
+        - {x: -40.5, y: 28.5}
+        - {x: -40.5, y: -37.5}
+        - {x: -29.5, y: -41.5}
+        - {x: 29.5, y: -41.5}
+        - {x: 40.5, y: -29.5}
+        - {x: 40.5, y: 37.5}
+        - {x: 23.5, y: 41.5}
+    - name: RunesIcon_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 580
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 40.5}
+        - {x: -35, y: 40.5}
+        - {x: -41, y: 30.5}
+        - {x: -41, y: -39.5}
+        - {x: -33, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 40, y: -31.5}
+        - {x: 41, y: -27.5}
+        - {x: 41, y: 34.5}
+    - name: RunesIcon_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 580
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 40.5}
+        - {x: -40.5, y: 37.5}
+        - {x: -40.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: 34.5, y: -40.5}
+        - {x: 40.5, y: -23.5}
+        - {x: 40.5, y: 40.5}
+    - name: RunesIcon_53
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 640
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -30, y: 28}
+        - {x: -30, y: -27}
+        - {x: -21, y: -31}
+        - {x: 30, y: -31}
+        - {x: 30, y: 30}
+        - {x: 28, y: 31}
+    - name: RunesIcon_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 640
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -30, y: 28}
+        - {x: -30, y: -27}
+        - {x: -21, y: -31}
+        - {x: 30, y: -31}
+        - {x: 30, y: 30}
+        - {x: 28, y: 31}
+    - name: RunesIcon_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 475
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -32, y: 41}
+        - {x: -41, y: 21}
+        - {x: -41, y: -36}
+        - {x: -22, y: -42}
+        - {x: 24, y: -42}
+        - {x: 41, y: -28}
+        - {x: 41, y: 24}
+        - {x: 22, y: 42}
+    - name: RunesIcon_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 489
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.5}
+        - {x: -25.5, y: 35.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -40.5, y: -29.5}
+        - {x: -25.5, y: -35.5}
+        - {x: 29.5, y: -35.5}
+        - {x: 40.5, y: -17.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 22.5, y: 31.5}
+    - name: RunesIcon_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 483
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 483
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 484
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 40.5}
+        - {x: -26.5, y: 40.5}
+        - {x: -41.5, y: 25.5}
+        - {x: -41.5, y: -21.5}
+        - {x: -36.5, y: -38.5}
+        - {x: -34.5, y: -40.5}
+        - {x: 29.5, y: -40.5}
+        - {x: 41.5, y: -38.5}
+        - {x: 41.5, y: 19.5}
+        - {x: 26.5, y: 37.5}
+    - name: RunesIcon_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 492
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 40}
+        - {x: -30, y: 37}
+        - {x: -40, y: 30}
+        - {x: -40, y: -36}
+        - {x: -30, y: -40}
+        - {x: 31, y: -40}
+        - {x: 40, y: -30}
+        - {x: 40, y: 23}
+        - {x: 25, y: 40}
+    - name: RunesIcon_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 41}
+        - {x: -27.5, y: 41}
+        - {x: -41.5, y: 28}
+        - {x: -41.5, y: -25}
+        - {x: -29.5, y: -41}
+        - {x: 26.5, y: -41}
+        - {x: 37.5, y: -34}
+        - {x: 41.5, y: -24}
+        - {x: 41.5, y: 26}
+    - name: RunesIcon_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 385
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 41}
+        - {x: -42, y: 31}
+        - {x: -42, y: -18}
+        - {x: -32, y: -39}
+        - {x: -28, y: -41}
+        - {x: 27, y: -41}
+        - {x: 43, y: -37}
+        - {x: 43, y: 27}
+        - {x: 32, y: 41}
+    - name: RunesIcon_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 393
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 393
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -40.5, y: 34}
+        - {x: -40.5, y: -28}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -41}
+        - {x: 22.5, y: -41}
+        - {x: 40.5, y: -36}
+        - {x: 40.5, y: 17}
+        - {x: 37.5, y: 31}
+    - name: RunesIcon_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 395
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 40.5}
+        - {x: -26.5, y: 40.5}
+        - {x: -41.5, y: 25.5}
+        - {x: -41.5, y: -21.5}
+        - {x: -36.5, y: -38.5}
+        - {x: -34.5, y: -40.5}
+        - {x: 29.5, y: -40.5}
+        - {x: 41.5, y: -38.5}
+        - {x: 41.5, y: 19.5}
+        - {x: 26.5, y: 37.5}
+    - name: RunesIcon_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 404
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: -40, y: 22}
+        - {x: -40, y: -30}
+        - {x: -28, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 34}
+        - {x: 21, y: 40}
+    - name: RunesIcon_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 41}
+        - {x: -26, y: 41}
+        - {x: -42, y: 28}
+        - {x: -42, y: -24}
+        - {x: -30, y: -41}
+        - {x: 26, y: -41}
+        - {x: 38, y: -35}
+        - {x: 42, y: -22}
+        - {x: 42, y: 24}
+    - name: RunesIcon_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 300
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: -24, y: 36}
+        - {x: -41, y: 29}
+        - {x: -41, y: -20}
+        - {x: -22, y: -36}
+        - {x: 15, y: -36}
+        - {x: 22, y: -34}
+        - {x: 41, y: -19}
+        - {x: 41, y: 13}
+        - {x: 38, y: 26}
+    - name: RunesIcon_69
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 300
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: -24, y: 36}
+        - {x: -41, y: 29}
+        - {x: -41, y: -20}
+        - {x: -22, y: -36}
+        - {x: 15, y: -36}
+        - {x: 22, y: -34}
+        - {x: 41, y: -19}
+        - {x: 41, y: 13}
+        - {x: 38, y: 26}
+    - name: RunesIcon_70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 304
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 40.5}
+        - {x: -31, y: 40.5}
+        - {x: -42, y: 21.5}
+        - {x: -42, y: -31.5}
+        - {x: -31, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 39, y: -34.5}
+        - {x: 43, y: -21.5}
+        - {x: 43, y: 22.5}
+    - name: RunesIcon_71
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 306
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 307
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -41, y: 24}
+        - {x: -41, y: -40}
+        - {x: 41, y: -40}
+        - {x: 41, y: 40}
+    - name: RunesIcon_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 41}
+        - {x: -27.5, y: 41}
+        - {x: -41.5, y: 28}
+        - {x: -41.5, y: -25}
+        - {x: -29.5, y: -41}
+        - {x: 26.5, y: -41}
+        - {x: 37.5, y: -34}
+        - {x: 41.5, y: -24}
+        - {x: 41.5, y: 26}
+    - name: RunesIcon_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 211
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 36.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -40.5, y: -15.5}
+        - {x: -22.5, y: -36.5}
+        - {x: 17.5, y: -36.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 40.5, y: 13.5}
+        - {x: 17.5, y: 36.5}
+    - name: RunesIcon_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 35.5}
+        - {x: -23, y: 35.5}
+        - {x: -39, y: 27.5}
+        - {x: -41, y: 16.5}
+        - {x: -41, y: -22.5}
+        - {x: -27, y: -35.5}
+        - {x: 18, y: -35.5}
+        - {x: 41, y: -14.5}
+        - {x: 41, y: 7.5}
+        - {x: 25, y: 34.5}
+    - name: RunesIcon_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 215
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 40.5}
+        - {x: -40.5, y: 37.5}
+        - {x: -40.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: 34.5, y: -40.5}
+        - {x: 40.5, y: -23.5}
+        - {x: 40.5, y: 40.5}
+    - name: RunesIcon_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 215
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 218
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 41}
+        - {x: -36, y: 41}
+        - {x: -41, y: 24}
+        - {x: -41, y: -40}
+        - {x: -40, y: -41}
+        - {x: 33, y: -41}
+        - {x: 37, y: -36}
+        - {x: 41, y: -20}
+        - {x: 41, y: 20}
+    - name: RunesIcon_79
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 219
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: -40, y: 22}
+        - {x: -40, y: -30}
+        - {x: -28, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 34}
+        - {x: 21, y: 40}
+    - name: RunesIcon_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 41}
+        - {x: -26, y: 41}
+        - {x: -42, y: 28}
+        - {x: -42, y: -24}
+        - {x: -30, y: -41}
+        - {x: 26, y: -41}
+        - {x: 38, y: -35}
+        - {x: 42, y: -22}
+        - {x: 42, y: 24}
+    - name: RunesIcon_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 120
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: -24, y: 36}
+        - {x: -41, y: 29}
+        - {x: -41, y: -20}
+        - {x: -22, y: -36}
+        - {x: 15, y: -36}
+        - {x: 22, y: -34}
+        - {x: 41, y: -19}
+        - {x: 41, y: 13}
+        - {x: 38, y: 26}
+    - name: RunesIcon_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 120
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: -24, y: 36}
+        - {x: -41, y: 29}
+        - {x: -41, y: -20}
+        - {x: -22, y: -36}
+        - {x: 15, y: -36}
+        - {x: 22, y: -34}
+        - {x: 41, y: -19}
+        - {x: 41, y: 13}
+        - {x: 38, y: 26}
+    - name: RunesIcon_83
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_84
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 126
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_85
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 126
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_86
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 130
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: -40, y: 22}
+        - {x: -40, y: -30}
+        - {x: -28, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 34}
+        - {x: 21, y: 40}
+    - name: RunesIcon_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 131
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 40}
+        - {x: -40.5, y: 29}
+        - {x: -40.5, y: -37}
+        - {x: -27.5, y: -40}
+        - {x: 32.5, y: -40}
+        - {x: 40.5, y: -35}
+        - {x: 40.5, y: 33}
+        - {x: 21.5, y: 40}
+    - name: RunesIcon_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 41}
+        - {x: -27.5, y: 41}
+        - {x: -41.5, y: 28}
+        - {x: -41.5, y: -25}
+        - {x: -29.5, y: -41}
+        - {x: 26.5, y: -41}
+        - {x: 37.5, y: -34}
+        - {x: 41.5, y: -24}
+        - {x: 41.5, y: 26}
+    - name: RunesIcon_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 30
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: -24, y: 36}
+        - {x: -41, y: 29}
+        - {x: -41, y: -20}
+        - {x: -22, y: -36}
+        - {x: 15, y: -36}
+        - {x: 22, y: -34}
+        - {x: 41, y: -19}
+        - {x: 41, y: 13}
+        - {x: 38, y: 26}
+    - name: RunesIcon_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 31
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 35.5}
+        - {x: -41, y: 28.5}
+        - {x: -41, y: -27.5}
+        - {x: -20, y: -35.5}
+        - {x: 27, y: -35.5}
+        - {x: 41, y: -16.5}
+        - {x: 41, y: 13.5}
+        - {x: 25, y: 35.5}
+    - name: RunesIcon_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 37
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_92
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 37
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -40, y: 34.5}
+        - {x: -40, y: -31.5}
+        - {x: -26, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 40, y: -35.5}
+        - {x: 40, y: 29.5}
+        - {x: 39, y: 34.5}
+    - name: RunesIcon_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 38
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: -40, y: 22}
+        - {x: -40, y: -30}
+        - {x: -28, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 34}
+        - {x: 21, y: 40}
+    - name: RunesIcon_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 40
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 41}
+        - {x: -40, y: -36}
+        - {x: -16, y: -41}
+        - {x: 30, y: -41}
+        - {x: 40, y: -38}
+        - {x: 40, y: 38}
+        - {x: 38, y: 41}
+    - name: RunesIcon_95
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 43
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 40}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -18}
+        - {x: -36.5, y: -34}
+        - {x: -24.5, y: -40}
+        - {x: 25.5, y: -40}
+        - {x: 39.5, y: -38}
+        - {x: 39.5, y: 22}
+        - {x: 25.5, y: 40}
+    - name: RunesIcon_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 43
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 40}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -18}
+        - {x: -36.5, y: -34}
+        - {x: -24.5, y: -40}
+        - {x: 25.5, y: -40}
+        - {x: 39.5, y: -38}
+        - {x: 39.5, y: 22}
+        - {x: 25.5, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

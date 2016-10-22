@@ -1,0 +1,45 @@
+CSV_TABLES = CSV_TABLES or {} 
+CSV_TABLES["FIGHT_UI"]={
+ [7]={
+ ["siblingId"]=0,
+ ["parentId"]=6,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/headinfo.prefab",
+ ["sid"]=7,
+},
+ [59]={
+ ["siblingId"]=1,
+ ["parentId"]=57,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/settingspanel.prefab",
+ ["sid"]=59,
+},
+ [70]={
+ ["siblingId"]=2,
+ ["parentId"]=57,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab",
+ ["sid"]=70,
+},
+ [22]={
+ ["siblingId"]=2,
+ ["parentId"]=0,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/bottomright.prefab",
+ ["sid"]=22,
+},
+ [4]={
+ ["siblingId"]=0,
+ ["parentId"]=3,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/minimapframe.prefab",
+ ["sid"]=4,
+},
+ [55]={
+ ["siblingId"]=3,
+ ["parentId"]=0,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/topright.prefab",
+ ["sid"]=55,
+},
+ [19]={
+ ["siblingId"]=1,
+ ["parentId"]=0,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/fight_ui/bottomleft.prefab",
+ ["sid"]=19,
+},
+}

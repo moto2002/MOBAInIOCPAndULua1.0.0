@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 3760881999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdd169ba55eb0d48a243f7b5fd247c14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1005ef34d7f789b1640bcc87dc99cee0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24a358a13fabbfb49b5eff547d1a30c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd79ed89782f4564a83f5c89d24f6f59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 238fdd6fc2883b741ad86a5eecedf985, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/characters/Ali/ahri@idle1.fbx
+- Assets/DynamicResources/characters/Ali/ahri@run.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@attack2.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@dancel.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@spell2.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@spell1.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@attack1.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@idle4.fbx
+- Assets/DynamicResources/characters/hero11.prefab
+- Assets/DynamicResources/characters/hero3.prefab
+- Assets/DynamicResources/characters/Ali/hero_ahri.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero10.prefab
+- Assets/DynamicResources/characters/Ali/ahri@idle3.fbx
+- Assets/DynamicResources/characters/Ali/ahri@idle2.fbx
+- Assets/DynamicResources/characters/Ali/ahri@channel_windup.fbx
+- Assets/DynamicResources/characters/Ali/Anim/ali.controller
+- Assets/DynamicResources/characters/hero6.prefab
+- Assets/DynamicResources/characters/Ali/Materials/Ahri_base_TX_CM.mat
+- Assets/DynamicResources/characters/Ali/ahri@channel_windup.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@critl.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero8.prefab
+- Assets/DynamicResources/characters/Ali/ahri@death.fbx
+- Assets/DynamicResources/characters/hero7.prefab
+- Assets/DynamicResources/characters/Ali/ahri@dancel.fbx
+- Assets/DynamicResources/characters/Ali/ahri@spell2.fbx
+- Assets/DynamicResources/characters/Ali/ahri@idle1.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@spell3.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero12.prefab
+- Assets/DynamicResources/characters/Ali/ahri@idle4.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@idle2.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero9.prefab
+- Assets/DynamicResources/characters/Ali/ahri@idle5.fbx
+- Assets/DynamicResources/characters/Ali/ahri@taunt.fbx
+- Assets/DynamicResources/characters/Ali/ahri@taunt.fbm/Materials/Ahri_base_TX_CM.mat
+- Assets/DynamicResources/characters/Ali/ahri@channel.fbx
+- Assets/DynamicResources/characters/Ali/ahri@spell4.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@spell4.fbx
+- Assets/DynamicResources/characters/hero2.prefab
+- Assets/DynamicResources/characters/hero4.prefab
+- Assets/DynamicResources/characters/Ali/ahri@run.fbx
+- Assets/DynamicResources/characters/Ali/ahri@joke.fbx
+- Assets/DynamicResources/characters/Ali/ahri@idle3.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@taunt.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/hero_ahri.fbx
+- Assets/DynamicResources/characters/Ali/ahri@spell1.fbx
+- Assets/DynamicResources/characters/Ali/ahri@channel.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero1.prefab
+- Assets/DynamicResources/characters/Ali/ahri@attack2.fbx
+- Assets/DynamicResources/characters/Ali/ahri@critl.fbx
+- Assets/DynamicResources/characters/Ali/ahri@joke.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@spell3.fbx
+- Assets/DynamicResources/characters/Ali/ahri@death.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@laugh.fbx
+- Assets/DynamicResources/characters/Ali/ahri@laugh.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/Ali/ahri@idle5.fbm/Ahri_base_TX_CM.dds
+- Assets/DynamicResources/characters/hero5.prefab
+Dependencies: []

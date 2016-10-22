@@ -1,0 +1,4 @@
+sid,name,parentid,siblingid
+int,string,int,int
+序号,名字,父节点Id,顺序id
+145,assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab,0,1

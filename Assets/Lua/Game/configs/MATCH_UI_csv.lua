@@ -1,0 +1,27 @@
+CSV_TABLES = CSV_TABLES or {} 
+CSV_TABLES["MATCH_UI"]={
+ [85]={
+ ["siblingId"]=0,
+ ["parentId"]=84,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/match_ui/infopanel.prefab",
+ ["sid"]=85,
+},
+ [122]={
+ ["siblingId"]=3,
+ ["parentId"]=84,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab",
+ ["sid"]=122,
+},
+ [111]={
+ ["siblingId"]=1,
+ ["parentId"]=84,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/match_ui/createuserpanel.prefab",
+ ["sid"]=111,
+},
+ [120]={
+ ["siblingId"]=2,
+ ["parentId"]=84,
+ ["name"]="assets/dynamicresources/uiprefabs/ui/match_ui/mask.prefab",
+ ["sid"]=120,
+},
+}

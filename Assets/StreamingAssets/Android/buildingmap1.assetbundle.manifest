@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1706323964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 165f2b0d65ce1ec167bdf7e8ef4aff98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a5fd0bef39798aa47e3df95b2e2daea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/build/2_2.prefab
+- Assets/DynamicResources/build/2_3.prefab
+- Assets/DynamicResources/build/1_3.prefab
+- Assets/DynamicResources/build/1_1.prefab
+- Assets/DynamicResources/build/2_1.prefab
+- Assets/DynamicResources/build/1_2.prefab
+Dependencies: []

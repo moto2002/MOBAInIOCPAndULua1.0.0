@@ -1,0 +1,1 @@
+main_model = newclass(base_model)

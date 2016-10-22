@@ -1,0 +1,7 @@
+sid,name,parentId,siblingId
+int,string,int,int
+序号,名字,父节点Id,顺序Id
+4,assets/dynamicresources/uiprefabs/ui/login_ui/login_bkg.prefab,3,0
+5,assets/dynamicresources/uiprefabs/ui/login_ui/loginpanel.prefab,3,1
+18,assets/dynamicresources/uiprefabs/ui/login_ui/registerpanel.prefab,3,2
+37,assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab,3,3

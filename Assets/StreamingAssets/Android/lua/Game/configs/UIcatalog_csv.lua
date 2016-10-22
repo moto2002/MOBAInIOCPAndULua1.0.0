@@ -1,0 +1,23 @@
+CSV_TABLES = CSV_TABLES or {} 
+CSV_TABLES["UIcatalog"]={
+ ["3"]={
+ ["name"]="SELECT_UI",
+ ["sid"]="3",
+},
+ ["2"]={
+ ["name"]="MATCH_UI",
+ ["sid"]="2",
+},
+ ["fightScene4"]={
+ ["name"]="FIGHT_UI",
+ ["sid"]="fightScene4",
+},
+ ["1_mobile"]={
+ ["name"]="LOGIN_UI",
+ ["sid"]="1_mobile",
+},
+ ["downLoadScene"]={
+ ["name"]="DOWNLOAD_UI",
+ ["sid"]="downLoadScene",
+},
+}

@@ -1,0 +1,13 @@
+sid,name,parentId,siblingId
+int,string,int,int
+序号,名字,父节点Id,顺序Id
+129,assets/dynamicresources/uiprefabs/ui/select_ui/bkg.prefab,128,0
+131,assets/dynamicresources/uiprefabs/ui/select_ui/chatlframe.prefab,128,1
+139,assets/dynamicresources/uiprefabs/ui/select_ui/detailframe.prefab,128,2
+143,assets/dynamicresources/uiprefabs/ui/select_ui/leftlist.prefab,128,3
+171,assets/dynamicresources/uiprefabs/ui/select_ui/mapframe.prefab,128,4
+175,assets/dynamicresources/uiprefabs/ui/select_ui/rightlist.prefab,128,5
+203,assets/dynamicresources/uiprefabs/ui/select_ui/selectherospanel.prefab,128,6
+211,assets/dynamicresources/uiprefabs/ui/select_ui/timer.prefab,128,7
+213,assets/dynamicresources/uiprefabs/ui/select_ui/initialmask.prefab,128,8
+215,assets/dynamicresources/uiprefabs/ui/common/errorpanel.prefab,128,9

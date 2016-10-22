@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 2090994173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10a39b576ec1b54989928c1dfc229256
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25cb7455976e2d947e8ffd9bf3ec94a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54a68930b9d8aab47990d261e3de81d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f52dc470c9d7c494991b7faa23f65882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 600323d1bcfeab944a7c4abf021171f5, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 130cb623091f19e4d98561a36d74c716, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00c3c865782347f41b6358d9fba14b48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1b055474ee19df43ae960cafea9b084, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec0e6719cd1ae4a49a5e158a91be5b17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3524f17a710512845888503d812ddd6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5bd82b99a22944fbcc77bfe326ce92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6737986c56fcddd47b5baa0cf047bfda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bbde85fb2d6b0a4298b37c57c8c8a97, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d8e067bcc9df024fba9f0ceaf770fdd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5ac36f36d94f9643a62e36f6790f90b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7420c4dd92045a489ba9e9f1b69d50e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cb52329ddc34564ba45b97b0963faed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf4f48ac618835146b38a4c89f71bae3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/SelectHerosPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/ChatlFrame.prefab
+- Assets/DynamicResources/UIPrefabs/UI/COMMON/errorPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/SkillIcon.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/TopRight.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/headInfo.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/SelectHeroBtn.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/BottomRight.prefab
+- Assets/DynamicResources/UIPrefabs/LevelLoader.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/bkg.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/LeftList.prefab
+- Assets/DynamicResources/UIPrefabs/UI/LOGIN_UI/registerPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/RightList.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/MapFrame.prefab
+- Assets/DynamicResources/UIPrefabs/UI/LOGIN_UI/login_bkg.prefab
+- Assets/DynamicResources/UIPrefabs/UI/MATCH_UI/infoPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/settingsPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/DetailFrame.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/MiniMapFrame.prefab
+- Assets/DynamicResources/UIPrefabs/UI/LOGIN_UI/loginPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/MATCH_UI/createUserPanel.prefab
+- Assets/DynamicResources/UIPrefabs/UI/MATCH_UI/mask.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/MapHead.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/UnitInfoView.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/Timer.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/SkillButton.prefab
+- Assets/DynamicResources/UIPrefabs/UIDynamicPrefabs/skillTip.prefab
+- Assets/DynamicResources/UIPrefabs/UI/UIWithAnchors.prefab
+- Assets/DynamicResources/UIPrefabs/UI/SELECT_UI/initialMask.prefab
+- Assets/DynamicResources/UIPrefabs/UI/FIGHT_UI/BottomLeft.prefab
+Dependencies:
+- C:/Users/Public/Documents/Unity Projects/LOLClient/Assets/StreamingAssets/Android/skillicon.assetbundle
+- C:/Users/Public/Documents/Unity Projects/LOLClient/Assets/StreamingAssets/Android/fightuiprefabs.assetbundle
